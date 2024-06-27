@@ -10,7 +10,7 @@ Harness Blog: [Your First Drone Installation, Build, and Push](https://harness.i
 This is a simple structure of a Go Lang class and a Dockerfile to create an image
 of the Go Lang class. The Drone.yaml is wired to Drone out-of-box events.  
 
-* Main Go
+* Main Gogogogogo$$
 * Dockerfile
 * Drone.yaml 
 
